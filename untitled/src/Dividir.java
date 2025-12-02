@@ -1,2 +1,8 @@
-public class Dividir {
+class Dividir implements Operacao {
+    public double executar(double a, double b) {
+        if (b == 0) {
+            throw new ArithmeticException("Não é possível dividir por zero!");
+        }
+        return a/b;
+    }
 }
