@@ -156,41 +156,6 @@ To github.com:douglasrfferreira/TrabalhoFinal_Git.git
 Este projeto implementa uma calculadora simples em Java, estruturada de forma modular, com cada operação representada em uma classe específica.
 O sistema utiliza orientação a objetos, interface Operacao, polimorfismo e organização limpa de pastas.
 
-👤 Participação / Cooperação no Projeto
-🧑‍💻 Douglas Rafael Ferreira
-✔ Contribuições iniciais
-
-Criou o repositório no GitHub
-
-Clonou o repositório utilizando git clone
-
-Criou o projeto no IntelliJ IDEA
-
-Estruturou todo o conjunto de pastas principais:
-
-/calculadora
-
-/operacao
-
-/soma
-
-/subtrair
-
-/dividir
-
-/multiplicar
-
-✔ Implementações realizadas
-
-Implementou a classe Calculadora (classe principal)
-
-Implementou a classe Dividir
-
-✔ Comandos Git utilizados
-git clone <url-do-repositorio>
-git add .
-git commit -m "mensagem"
-git push origin main
 
 🧑‍💻 Jean Guilherme
 ✔ Atualização do repositório
