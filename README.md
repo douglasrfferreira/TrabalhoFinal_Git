@@ -200,46 +200,6 @@ Este projeto implementa uma calculadora simples em Java, estruturada de forma mo
 O sistema utiliza orientação a objetos, interface Operacao, polimorfismo e organização limpa de pastas.
 
 
-🧑‍💻 Jean Guilherme
-✔ Atualização do repositório
-
-Clonou o repositório com git clone
-
-Após as alterações feitas por Douglas, atualizou seu repositório local com:
-
-git pull
-
-✔ Implementações realizadas
-
-Jean implementou as seguintes classes fundamentais para o funcionamento do projeto:
-
-Operacao (interface base)
-
-Somar
-
-Subtrair
-
-Multiplicar
-
-Essas classes completam a lógica de operações básicas da calculadora.
-
-✔ Envio das alterações ao GitHub
-
-Após desenvolver suas classes, ele utilizou:
-
-git add .
-git commit -m "mensagem"
-git push origin main
-
-✔ Contribuição no README
-
-Editou este README, documentando sua participação no projeto.
-
-🛠 Logs utilizados pelos participante:
-Usuario@DESKTOP-9FTOCQT MINGW64 ~/TrabalhoFinal_Git (main)
-$ git commit -m "Implementa classe Operacao, classe soma, subtrair e multiplicar"
-[main 9e5d5cd] Implementa classe Operacao, classe soma, subtrair e multiplicar
- 4 files changed, 20 insertions(+), 4 deletions(-)
 
 Usuario@DESKTOP-9FTOCQT MINGW64 ~/TrabalhoFinal_Git (main)
 $ git push
