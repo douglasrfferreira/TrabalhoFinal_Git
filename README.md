@@ -150,5 +150,179 @@ To github.com:douglasrfferreira/TrabalhoFinal_Git.git
 
 📜 E por fim, editei o Readme do repositório descrevendo minha participação no projeto
 
+📄 README.md – Calculadora em Java
+🧮 Projeto Calculadora em Java (com operações separadas)
 
+Este projeto implementa uma calculadora simples em Java, estruturada de forma modular, com cada operação representada em uma classe específica.
+O sistema utiliza orientação a objetos, interface Operacao, polimorfismo e organização limpa de pastas.
+
+👤 Participação / Cooperação no Projeto
+🧑‍💻 Douglas Rafael Ferreira
+✔ Contribuições iniciais
+
+Criou o repositório no GitHub
+
+Clonou o repositório utilizando git clone
+
+Criou o projeto no IntelliJ IDEA
+
+Estruturou todo o conjunto de pastas principais:
+
+/calculadora
+
+/operacao
+
+/soma
+
+/subtrair
+
+/dividir
+
+/multiplicar
+
+✔ Implementações realizadas
+
+Implementou a classe Calculadora (classe principal)
+
+Implementou a classe Dividir
+
+✔ Comandos Git utilizados
+git clone <url-do-repositorio>
+git add .
+git commit -m "mensagem"
+git push origin main
+
+🧑‍💻 Jean Guilherme
+✔ Atualização do repositório
+
+Clonou o repositório com git clone
+
+Após as alterações feitas por Douglas, atualizou seu repositório local com:
+
+git pull
+
+✔ Implementações realizadas
+
+Jean implementou as seguintes classes fundamentais para o funcionamento do projeto:
+
+Operacao (interface base)
+
+Somar
+
+Subtrair
+
+Multiplicar
+
+Essas classes completam a lógica de operações básicas da calculadora.
+
+✔ Envio das alterações ao GitHub
+
+Após desenvolver suas classes, ele utilizou:
+
+git add .
+git commit -m "mensagem"
+git push origin main
+
+✔ Contribuição no README
+
+Editou este README, documentando sua participação no projeto.
+
+🛠 Logs utilizados pelos participante:
+📄 README.md – Calculadora em Java
+🧮 Projeto Calculadora em Java (com operações separadas)
+
+Este projeto implementa uma calculadora simples em Java, estruturada de forma modular, com cada operação representada em uma classe específica.
+O sistema utiliza orientação a objetos, interface Operacao, polimorfismo e organização limpa de pastas.
+
+👤 Participação / Cooperação no Projeto
+🧑‍💻 Douglas Rafael Ferreira
+✔ Contribuições iniciais
+
+Criou o repositório no GitHub
+
+Clonou o repositório utilizando git clone
+
+Criou o projeto no IntelliJ IDEA
+
+Estruturou todo o conjunto de pastas principais:
+
+/calculadora
+
+/operacao
+
+/soma
+
+/subtrair
+
+/dividir
+
+/multiplicar
+
+✔ Implementações realizadas
+
+Implementou a classe Calculadora (classe principal)
+
+Implementou a classe Dividir
+
+✔ Comandos Git utilizados
+git clone <url-do-repositorio>
+git add .
+git commit -m "mensagem"
+git push origin main
+
+🧑‍💻 Jean Guilherme
+✔ Atualização do repositório
+
+Clonou o repositório com git clone
+
+Após as alterações feitas por Douglas, atualizou seu repositório local com:
+
+git pull
+
+✔ Implementações realizadas
+
+Jean implementou as seguintes classes fundamentais para o funcionamento do projeto:
+
+Operacao (interface base)
+
+Somar
+
+Subtrair
+
+Multiplicar
+
+Essas classes completam a lógica de operações básicas da calculadora.
+
+✔ Envio das alterações ao GitHub
+
+Após desenvolver suas classes, ele utilizou:
+
+git add .
+git commit -m "mensagem"
+git push origin main
+
+✔ Contribuição no README
+
+Editou este README, documentando sua participação no projeto.
+
+🛠 Logs utilizados pelos participante:
+Usuario@DESKTOP-9FTOCQT MINGW64 ~/TrabalhoFinal_Git (main)
+$ git commit -m "Implementa classe Operacao, classe soma, subtrair e multiplicar"
+[main 9e5d5cd] Implementa classe Operacao, classe soma, subtrair e multiplicar
+ 4 files changed, 20 insertions(+), 4 deletions(-)
+
+Usuario@DESKTOP-9FTOCQT MINGW64 ~/TrabalhoFinal_Git (main)
+$ git push
+Enumerating objects: 15, done.
+Counting objects: 100% (15/15), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (8/8), done.
+Writing objects: 100% (8/8), 1.08 KiB | 1.08 MiB/s, done.
+Total 8 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To github.com:douglasrfferreira/TrabalhoFinal_Git.git
+   492ddd6..9e5d5cd  main -> main
+
+Usuario@DESKTOP-9FTOCQT MINGW64 ~/TrabalhoFinal_Git (main)
+$
 
