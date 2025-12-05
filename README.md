@@ -150,14 +150,8 @@ To github.com:douglasrfferreira/TrabalhoFinal_Git.git
 
 📜 E por fim, editei o Readme do repositório descrevendo minha participação no projeto
 
-📄 README.md – Calculadora em Java
-🧮 Projeto Calculadora em Java (com operações separadas)
+👤 Participação / Cooperação no Projeto - Jean Guilherme
 
-Este projeto implementa uma calculadora simples em Java, estruturada de forma modular, com cada operação representada em uma classe específica.
-O sistema utiliza orientação a objetos, interface Operacao, polimorfismo e organização limpa de pastas.
-
-
-🧑‍💻 Jean Guilherme
 ✔ Atualização do repositório
 
 Clonou o repositório com git clone
@@ -193,13 +187,38 @@ git push origin main
 Editou este README, documentando sua participação no projeto.
 
 🛠 Logs utilizados pelos participante:
-📄 README.md – Calculadora em Java
-🧮 Projeto Calculadora em Java (com operações separadas)
+Usuario@DESKTOP-9FTOCQT MINGW64 ~
+$ git clone git@github.com:douglasrfferreira/TrabalhoFinal_Git.git
+Cloning into 'TrabalhoFinal_Git'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+Receiving objects: 100% (3/3), done.
 
-Este projeto implementa uma calculadora simples em Java, estruturada de forma modular, com cada operação representada em uma classe específica.
-O sistema utiliza orientação a objetos, interface Operacao, polimorfismo e organização limpa de pastas.
+Usuario@DESKTOP-9FTOCQT MINGW64 ~
+$ pwd
+/c/Users/Usuario
 
+Usuario@DESKTOP-9FTOCQT MINGW64 ~
+$ cd TrabalhoFinal_Git
 
+Usuario@DESKTOP-9FTOCQT MINGW64 ~/TrabalhoFinal_Git (main)
+$ code .
+
+Usuario@DESKTOP-9FTOCQT MINGW64 ~/TrabalhoFinal_Git (main)
+$ git pull
+remote: Enumerating objects: 24, done.
+remote: Counting objects: 100% (24/24), done.
+remote: Compressing objects: 100% (14/14), done.
+remote: Total 23 (delta 4), reused 23 (delta 4), pack-reused 0 (from 0)
+Unpacking objects: 100% (23/23), 3.28 KiB | 12.00 KiB/s, done.
+From github.com:douglasrfferreira/TrabalhoFinal_Git
+   b793a94..492ddd6  main       -> origin/main
+Updating b793a94..492ddd6
+Usuario@DESKTOP-9FTOCQT MINGW64 ~/TrabalhoFinal_Git (main)
+$ git commit -m "Implementa classe Operacao, classe soma, subtrair e multiplicar"
+[main 9e5d5cd] Implementa classe Operacao, classe soma, subtrair e multiplicar
+ 4 files changed, 20 insertions(+), 4 deletions(-)
 
 Usuario@DESKTOP-9FTOCQT MINGW64 ~/TrabalhoFinal_Git (main)
 $ git push
